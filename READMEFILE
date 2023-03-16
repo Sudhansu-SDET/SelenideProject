@@ -1,0 +1,7 @@
+Libraries used :
+Selenide
+Junit
+Allure reports
+Podam for data
+
+Git Process : Enable VCS -> Add -> Commit Directory -> Push
